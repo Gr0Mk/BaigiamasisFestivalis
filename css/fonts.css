@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'coves-light';
+    src: url('fonts/coves/Coves-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'coves-bold';
+    src: url('fonts/coves/Coves-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-medium';
+    src: url('fonts/gotham/gothammedium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-bold';
+    src: url('fonts/gotham/gothambold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bebas-regular';
+    src: url('fonts/bebas/bebas-regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'myriad-regular';
+    src: url('fonts/myriad/myriad-regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'myriad-bold';
+    src: url('fonts/myriad/myriad-bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
